@@ -74,3 +74,7 @@ Alat khusus untuk perangkat Android.
 ## Saat Perangkat Mati
 - Biarkan dalam keadaan mati.
 - Buat dua salinan bit secara lengkap.
+
+---------------
+### HANYA UNTUK PEMBELAJARAN
+ ©Vinzel-2023
