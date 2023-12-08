@@ -1,4 +1,5 @@
 # Alat Validasi Hash
+
 Berikut adalah daftar alat validasi hash yang umum digunakan:
 - HashCalc: Sebuah alat yang efisien untuk menghitung nilai hash file dan teks.
 - MD5 Calculator: Alat sederhana untuk menghasilkan nilai hash MD5 dari file.
