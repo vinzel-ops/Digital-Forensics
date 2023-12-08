@@ -85,4 +85,7 @@ Layanan Penyingkat URL Populer
 - [https://www.phishtank.com/index.php](https://www.phishtank.com/index.php)
 - [https://apility.io/](https://apility.io/)
 
+---------------
+### HANYA UNTUK PEMBELAJARAN
  ©Vinzel-2023
+
