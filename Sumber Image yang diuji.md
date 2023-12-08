@@ -12,3 +12,7 @@ Dalam dunia forensik digital, penggunaan gambar yang tepat untuk pengujian dan p
 - Situs ini menyediakan sumber daya yang berharga untuk praktisi forensik untuk mengasah keterampilan mereka dan memahami kasus-kasus yang kompleks.
 
 Sumber-sumber ini sangat berharga bagi para profesional di bidang forensik digital, baik untuk tujuan pelatihan maupun pengembangan kemampuan analisis forensik.
+
+---------------
+### HANYA UNTUK PEMBELAJARAN
+ ©Vinzel-2023
