@@ -84,3 +84,5 @@ Layanan Penyingkat URL Populer
 - [https://openphish.com/index.html](https://openphish.com/index.html)
 - [https://www.phishtank.com/index.php](https://www.phishtank.com/index.php)
 - [https://apility.io/](https://apility.io/)
+
+ ©Vinzel-2023
