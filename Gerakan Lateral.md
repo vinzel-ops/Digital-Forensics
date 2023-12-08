@@ -52,3 +52,7 @@
 ### Catatan Event Log
 ### Registry
 ### Sistem Berkas
+
+---------------
+### HANYA UNTUK PEMBELAJARAN
+ ©Vinzel-2023
